@@ -8,7 +8,7 @@ Adapter:
 
 class Target:
     def request(self):
-        return 'Target : thr default target behavior'
+        return 'Target : the default target behavior'
 
 
 class Adaptee:
